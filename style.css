@@ -1,0 +1,50 @@
+body
+{
+    padding: 0;
+    margin: 0;
+    font-family: 'Baloo Tamma 2', cursive;
+}
+.con
+{
+    width: 100%;
+    box-sizing: border-box;
+    box-shadow: 0 0 8px #d5d5d5;
+}
+
+.b-blue
+{
+    background-color: darkblue;
+}
+.b-green
+{
+    background-color: green;
+}
+.white
+{
+    color: white;
+}
+.p1
+{
+    padding: 1rem;
+} 
+
+.m0
+{
+    margin: 0;
+}
+
+.b-red
+{
+    background-color: red;
+}
+
+.btn
+{
+    padding: 0.5rem 1rem;
+    background-color: white;
+    border-radius: 0.2rem;
+    box-shadow: 0 0 8px #e1e1e1;
+    text-decoration: none;
+    color: black;
+    font-size: 2rem;
+}
